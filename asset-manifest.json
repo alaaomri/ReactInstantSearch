@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.68e556c7.chunk.css",
-  "main.js": "/static/js/main.846329e4.chunk.js",
-  "main.js.map": "/static/js/main.846329e4.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.e8688bcb.chunk.js": "/static/js/2.e8688bcb.chunk.js",
-  "static/js/2.e8688bcb.chunk.js.map": "/static/js/2.e8688bcb.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.653b3dce1757fcbf4791c29aa5ba9077.js": "/precache-manifest.653b3dce1757fcbf4791c29aa5ba9077.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.68e556c7.chunk.css.map": "/static/css/main.68e556c7.chunk.css.map"
+  "main.css": "/ReactInstantSearch/static/css/main.68e556c7.chunk.css",
+  "main.js": "/ReactInstantSearch/static/js/main.d0123cea.chunk.js",
+  "main.js.map": "/ReactInstantSearch/static/js/main.d0123cea.chunk.js.map",
+  "runtime~main.js": "/ReactInstantSearch/static/js/runtime~main.dc7ebbbf.js",
+  "runtime~main.js.map": "/ReactInstantSearch/static/js/runtime~main.dc7ebbbf.js.map",
+  "static/js/2.aaf6caaa.chunk.js": "/ReactInstantSearch/static/js/2.aaf6caaa.chunk.js",
+  "static/js/2.aaf6caaa.chunk.js.map": "/ReactInstantSearch/static/js/2.aaf6caaa.chunk.js.map",
+  "index.html": "/ReactInstantSearch/index.html",
+  "precache-manifest.ba3e8f8e2c8e9eecf17d43c56db8d688.js": "/ReactInstantSearch/precache-manifest.ba3e8f8e2c8e9eecf17d43c56db8d688.js",
+  "service-worker.js": "/ReactInstantSearch/service-worker.js",
+  "static/css/main.68e556c7.chunk.css.map": "/ReactInstantSearch/static/css/main.68e556c7.chunk.css.map"
 }
